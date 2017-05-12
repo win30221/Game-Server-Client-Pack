@@ -1,0 +1,15 @@
+{
+"assetBundleGroup":
+	[
+		{
+			"assetBundleName" : "ui",
+			"assetBundleURI" : "AssetBundleUI",
+			"version" : 0
+		},
+		{
+			"assetBundleName" : "gameobject",
+			"assetBundleURI" : "AssetBundleGameobject",
+			"version" : 0
+		}
+	]
+}

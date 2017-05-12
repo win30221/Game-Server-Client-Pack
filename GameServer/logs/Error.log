@@ -1,0 +1,182 @@
+[2017-04-11 16:53:08.162] [ERROR] GameServer - GET /
+[2017-04-11 17:20:46.154] [ERROR] GameServer - GET /setup.cgi
+[2017-04-11 17:39:17.605] [ERROR] GameServer - GET /
+[2017-04-11 17:46:48.979] [ERROR] GameServer - GET /
+[2017-04-11 17:46:49.031] [ERROR] GameServer - GET /index.action
+[2017-04-11 18:09:41.804] [ERROR] GameServer - GET http://clientapi.ipip.net/echo.php?info=1234567890
+[2017-04-11 20:25:46.610] [ERROR] GameServer - GET /setup.cgi
+[2017-04-11 20:41:26.684] [ERROR] GameServer - GET /
+[2017-04-11 21:09:53.208] [ERROR] GameServer - GET /
+[2017-04-11 22:29:32.170] [ERROR] GameServer - GET /setup.cgi
+[2017-04-11 23:56:16.967] [ERROR] GameServer - GET /cgi/common.cgi
+[2017-04-11 23:56:17.719] [ERROR] GameServer - GET /stssys.htm
+[2017-04-11 23:56:18.490] [ERROR] GameServer - GET /
+[2017-04-11 23:56:19.335] [ERROR] GameServer - POST /command.php
+[2017-04-12 00:26:50.360] [ERROR] GameServer - GET /
+[2017-04-12 02:41:25.730] [ERROR] GameServer - GET /
+[2017-04-12 03:10:07.120] [ERROR] GameServer - GET /setup.cgi
+[2017-04-12 04:48:36.081] [ERROR] GameServer - GET http://www.baidu.com/favicon.ico
+[2017-04-12 04:58:17.700] [ERROR] GameServer - GET /
+[2017-04-12 06:18:23.317] [ERROR] GameServer - GET /
+[2017-04-12 06:37:21.954] [ERROR] console - (node:16928) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): MongoError: topology was destroyed
+[2017-04-12 06:37:22.092] [ERROR] GameServer - GET /favicon.ico
+[2017-04-12 07:17:53.001] [ERROR] GameServer - GET http://httpheader.net/
+[2017-04-12 13:08:49.535] [ERROR] GameServer - POST /FairyWarServer/Login
+[2017-04-12 13:10:37.294] [ERROR] GameServer - POST /FairyWarServer/CreatePlayer
+[2017-05-09 09:00:17.487] [ERROR] GameServer - GET /manager/html
+[2017-05-09 10:28:35.142] [ERROR] GameServer - GET /
+[2017-05-09 10:29:41.751] [ERROR] GameServer - GET /manager/html
+[2017-05-09 11:17:03.225] [ERROR] GameServer - GET /
+[2017-05-09 12:32:48.306] [ERROR] GameServer - GET /
+[2017-05-09 13:40:20.930] [ERROR] GameServer - GET /favicon.ico
+[2017-05-09 13:42:13.734] [ERROR] D:\Downloads\GameServer\controller\player.js - { ReferenceError: ops is not defined
+    at mongo.connectAsync.then.then.then.createResult (D:\Downloads\GameServer\service\playerService.js:36:27)
+    at tryCatcher (D:\Downloads\GameServer\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (D:\Downloads\GameServer\node_modules\bluebird\js\release\promise.js:512:31)
+    at Promise._settlePromise (D:\Downloads\GameServer\node_modules\bluebird\js\release\promise.js:569:18)
+    at Promise._settlePromise0 (D:\Downloads\GameServer\node_modules\bluebird\js\release\promise.js:614:10)
+    at Promise._settlePromises (D:\Downloads\GameServer\node_modules\bluebird\js\release\promise.js:693:18)
+    at Async._drainQueue (D:\Downloads\GameServer\node_modules\bluebird\js\release\async.js:133:16)
+    at Async._drainQueues (D:\Downloads\GameServer\node_modules\bluebird\js\release\async.js:143:10)
+    at Immediate.Async.drainQueues (D:\Downloads\GameServer\node_modules\bluebird\js\release\async.js:17:14)
+    at runCallback (timers.js:649:20)
+    at tryOnImmediate (timers.js:622:5)
+    at processImmediate [as _immediateCallback] (timers.js:594:5) status: 9001 }
+[2017-05-09 13:42:13.744] [ERROR] GameServer - GET /GameServer/CreatePlayer?playerName=hhh
+[2017-05-09 13:42:46.055] [ERROR] D:\Downloads\GameServer\controller\player.js - { ReferenceError: ops is not defined
+    at mongo.connectAsync.then.then.then.createResult (D:\Downloads\GameServer\service\playerService.js:36:27)
+    at tryCatcher (D:\Downloads\GameServer\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (D:\Downloads\GameServer\node_modules\bluebird\js\release\promise.js:512:31)
+    at Promise._settlePromise (D:\Downloads\GameServer\node_modules\bluebird\js\release\promise.js:569:18)
+    at Promise._settlePromise0 (D:\Downloads\GameServer\node_modules\bluebird\js\release\promise.js:614:10)
+    at Promise._settlePromises (D:\Downloads\GameServer\node_modules\bluebird\js\release\promise.js:693:18)
+    at Async._drainQueue (D:\Downloads\GameServer\node_modules\bluebird\js\release\async.js:133:16)
+    at Async._drainQueues (D:\Downloads\GameServer\node_modules\bluebird\js\release\async.js:143:10)
+    at Immediate.Async.drainQueues (D:\Downloads\GameServer\node_modules\bluebird\js\release\async.js:17:14)
+    at runCallback (timers.js:649:20)
+    at tryOnImmediate (timers.js:622:5)
+    at processImmediate [as _immediateCallback] (timers.js:594:5) status: 9001 }
+[2017-05-09 13:42:46.062] [ERROR] GameServer - GET /GameServer/CreatePlayer?playerName=hhh
+[2017-05-09 13:47:26.093] [ERROR] GameServer - POST /GameServer/CreatePlayer
+[2017-05-09 14:35:04.399] [ERROR] GameServer - GET /manager/html
+[2017-05-09 14:37:10.873] [ERROR] GameServer - GET http://www.google.com/
+[2017-05-09 15:28:22.523] [ERROR] GameServer - POST /GameServer/CreatePlayer
+[2017-05-09 15:28:52.183] [ERROR] GameServer - POST /GameServer/Login
+[2017-05-09 15:29:54.122] [ERROR] GameServer - GET http://112.124.116.170:83/index.php
+[2017-05-09 15:45:52.580] [ERROR] GameServer - POST /GameServer/Login
+[2017-05-09 15:46:25.445] [ERROR] GameServer - POST /GameServer/Login
+[2017-05-09 15:47:15.343] [ERROR] GameServer - POST /GameServer/Login
+[2017-05-09 15:50:00.568] [ERROR] GameServer - POST /GameServer/Login
+[2017-05-09 15:54:07.106] [ERROR] D:\Downloads\GameServer\controller\player.js - ReferenceError: mongoClient is not defined
+    at D:\Downloads\GameServer\service\playerService.js:88:9
+    at Object.exports.login (D:\Downloads\GameServer\service\playerService.js:87:12)
+    at Object.exports.login (D:\Downloads\GameServer\controller\player.js:81:19)
+    at router.all (D:\Downloads\GameServer\routes\index.js:13:38)
+    at Layer.handle [as handle_request] (D:\Downloads\GameServer\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Downloads\GameServer\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Downloads\GameServer\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Downloads\GameServer\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Downloads\GameServer\node_modules\express\lib\router\index.js:281:22
+    at param (D:\Downloads\GameServer\node_modules\express\lib\router\index.js:354:14)
+    at param (D:\Downloads\GameServer\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (D:\Downloads\GameServer\node_modules\express\lib\router\index.js:410:3)
+    at next (D:\Downloads\GameServer\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\Downloads\GameServer\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\Downloads\GameServer\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\Downloads\GameServer\node_modules\express\lib\router\layer.js:95:5)
+[2017-05-09 15:54:07.123] [ERROR] GameServer - POST /GameServer/Login
+[2017-05-09 15:54:53.363] [ERROR] D:\Downloads\GameServer\controller\player.js - ReferenceError: logTableName is not defined
+    at mongo.connectAsync.then.tmpDB (D:\Downloads\GameServer\service\playerService.js:92:38)
+    at tryCatcher (D:\Downloads\GameServer\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (D:\Downloads\GameServer\node_modules\bluebird\js\release\promise.js:512:31)
+    at Promise._settlePromise (D:\Downloads\GameServer\node_modules\bluebird\js\release\promise.js:569:18)
+    at Promise._settlePromise0 (D:\Downloads\GameServer\node_modules\bluebird\js\release\promise.js:614:10)
+    at Promise._settlePromises (D:\Downloads\GameServer\node_modules\bluebird\js\release\promise.js:693:18)
+    at Promise._fulfill (D:\Downloads\GameServer\node_modules\bluebird\js\release\promise.js:638:18)
+    at D:\Downloads\GameServer\node_modules\bluebird\js\release\nodeback.js:42:21
+    at connectCallback (D:\Downloads\GameServer\node_modules\mongodb\lib\mongo_client.js:428:5)
+    at D:\Downloads\GameServer\node_modules\mongodb\lib\mongo_client.js:347:11
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+[2017-05-09 15:54:53.372] [ERROR] GameServer - POST /GameServer/Login
+[2017-05-09 15:55:12.793] [ERROR] D:\Downloads\GameServer\controller\player.js - ReferenceError: logTableName is not defined
+    at mongo.connectAsync.then.tmpDB (D:\Downloads\GameServer\service\playerService.js:92:38)
+    at tryCatcher (D:\Downloads\GameServer\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (D:\Downloads\GameServer\node_modules\bluebird\js\release\promise.js:512:31)
+    at Promise._settlePromise (D:\Downloads\GameServer\node_modules\bluebird\js\release\promise.js:569:18)
+    at Promise._settlePromise0 (D:\Downloads\GameServer\node_modules\bluebird\js\release\promise.js:614:10)
+    at Promise._settlePromises (D:\Downloads\GameServer\node_modules\bluebird\js\release\promise.js:693:18)
+    at Promise._fulfill (D:\Downloads\GameServer\node_modules\bluebird\js\release\promise.js:638:18)
+    at D:\Downloads\GameServer\node_modules\bluebird\js\release\nodeback.js:42:21
+    at connectCallback (D:\Downloads\GameServer\node_modules\mongodb\lib\mongo_client.js:428:5)
+    at D:\Downloads\GameServer\node_modules\mongodb\lib\mongo_client.js:347:11
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+[2017-05-09 15:55:12.805] [ERROR] GameServer - POST /GameServer/Login
+[2017-05-09 15:56:47.084] [ERROR] D:\Downloads\GameServer\controller\player.js - ReferenceError: BaseResponse is not defined
+    at authentication (D:\Downloads\GameServer\service\playerService.js:53:12)
+    at mongo.connectAsync.then.then.logResult (D:\Downloads\GameServer\service\playerService.js:99:24)
+    at tryCatcher (D:\Downloads\GameServer\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (D:\Downloads\GameServer\node_modules\bluebird\js\release\promise.js:512:31)
+    at Promise._settlePromise (D:\Downloads\GameServer\node_modules\bluebird\js\release\promise.js:569:18)
+    at Promise._settlePromise0 (D:\Downloads\GameServer\node_modules\bluebird\js\release\promise.js:614:10)
+    at Promise._settlePromises (D:\Downloads\GameServer\node_modules\bluebird\js\release\promise.js:693:18)
+    at Async._drainQueue (D:\Downloads\GameServer\node_modules\bluebird\js\release\async.js:133:16)
+    at Async._drainQueues (D:\Downloads\GameServer\node_modules\bluebird\js\release\async.js:143:10)
+    at Immediate.Async.drainQueues (D:\Downloads\GameServer\node_modules\bluebird\js\release\async.js:17:14)
+    at runCallback (timers.js:649:20)
+    at tryOnImmediate (timers.js:622:5)
+    at processImmediate [as _immediateCallback] (timers.js:594:5)
+[2017-05-09 15:56:47.099] [ERROR] GameServer - POST /GameServer/Login
+[2017-05-09 15:58:12.827] [ERROR] GameServer - GET http://www.baidu.com/cache/global/img/gs.gif
+[2017-05-09 16:09:22.514] [ERROR] console - (node:13292) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): MongoError: topology was destroyed
+[2017-05-09 16:09:57.298] [ERROR] D:\Downloads\GameServer\controller\player.js - { status: 9003 }
+[2017-05-09 16:09:57.303] [ERROR] GameServer - POST /GameServer/Login
+[2017-05-09 16:10:53.194] [ERROR] console - (node:13292) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 3): MongoError: topology was destroyed
+[2017-05-09 16:10:59.392] [ERROR] D:\Downloads\GameServer\controller\player.js - { status: 9003 }
+[2017-05-09 16:10:59.396] [ERROR] GameServer - POST /GameServer/Login
+[2017-05-09 16:18:45.754] [ERROR] console - (node:13292) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 5): MongoError: topology was destroyed
+[2017-05-09 16:18:52.995] [ERROR] D:\Downloads\GameServer\controller\player.js - { status: 9003 }
+[2017-05-09 16:18:52.999] [ERROR] GameServer - POST /GameServer/Login
+[2017-05-10 14:23:14.925] [ERROR] GameServer - GET /favicon.ico
+[2017-05-10 14:23:14.987] [ERROR] console - (node:7192) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): MongoError: topology was destroyed
+[2017-05-10 14:23:19.502] [ERROR] D:\Projects\Nodejs\GameServer\controller\player.js - { status: 9003 }
+[2017-05-10 14:23:19.504] [ERROR] GameServer - POST /GameServer/Login
+[2017-05-10 14:24:25.238] [ERROR] console - (node:7192) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 3): MongoError: topology was destroyed
+[2017-05-10 14:24:29.081] [ERROR] D:\Projects\Nodejs\GameServer\controller\player.js - { status: 9003 }
+[2017-05-10 14:24:29.088] [ERROR] GameServer - POST /GameServer/Login
+[2017-05-10 15:02:36.094] [ERROR] console - (node:7192) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 5): MongoError: topology was destroyed
+[2017-05-10 15:02:52.506] [ERROR] D:\Projects\Nodejs\GameServer\controller\player.js - { status: 9003 }
+[2017-05-10 15:02:52.510] [ERROR] GameServer - POST /GameServer/Login
+[2017-05-10 15:03:19.538] [ERROR] console - (node:7192) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 7): MongoError: topology was destroyed
+[2017-05-10 15:03:27.740] [ERROR] D:\Projects\Nodejs\GameServer\controller\player.js - { status: 9003 }
+[2017-05-10 15:03:27.749] [ERROR] GameServer - POST /GameServer/Login
+[2017-05-11 18:44:19.063] [ERROR] console - (node:17592) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): MongoError: topology was destroyed
+[2017-05-11 18:44:19.231] [ERROR] GameServer - GET /favicon.ico
+[2017-05-11 18:44:43.863] [ERROR] D:\Projects\Nodejs\GameServer\controller\player.js - { status: 9003 }
+[2017-05-11 18:44:43.879] [ERROR] GameServer - POST /GameServer/Login
+[2017-05-11 18:45:07.885] [ERROR] D:\Projects\Nodejs\GameServer\controller\player.js - { status: 9003 }
+[2017-05-11 18:45:07.900] [ERROR] GameServer - POST /GameServer/Login
+[2017-05-11 18:47:12.289] [ERROR] console - (node:2040) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): MongoError: topology was destroyed
+[2017-05-11 18:47:15.663] [ERROR] D:\Projects\Nodejs\GameServer\controller\player.js - { status: 9003 }
+[2017-05-11 18:47:15.682] [ERROR] GameServer - POST /GameServer/Login
+[2017-05-11 18:51:25.191] [ERROR] console - (node:18196) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): MongoError: topology was destroyed
+[2017-05-11 18:51:59.010] [ERROR] D:\Projects\Nodejs\GameServer\controller\player.js - { status: 9003 }
+[2017-05-11 18:51:59.078] [ERROR] GameServer - POST /GameServer/Login
+[2017-05-11 21:12:13.121] [ERROR] D:\Projects\Nodejs\GameServer\controller\player.js - { status: 9003 }
+[2017-05-11 21:12:13.126] [ERROR] GameServer - POST /GameServer/Login
+[2017-05-12 10:06:41.116] [ERROR] console - (node:16376) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): TypeError: Cannot read property 'playerMeteorites' of null
+[2017-05-12 10:06:41.123] [ERROR] console - (node:16376) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 2): TypeError: Cannot read property 'playerMeteorites' of null
+[2017-05-12 10:08:35.932] [ERROR] console - (node:12100) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): TypeError: Cannot read property 'playerMeteorites' of null
+[2017-05-12 10:08:35.938] [ERROR] console - (node:12100) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 2): TypeError: Cannot read property 'playerMeteorites' of null
+[2017-05-12 10:09:24.341] [ERROR] console - (node:9804) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): TypeError: Cannot read property 'playerMeteorites' of null
+[2017-05-12 10:09:24.355] [ERROR] console - (node:9804) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 2): TypeError: Cannot read property 'playerMeteorites' of null
+[2017-05-12 10:10:26.648] [ERROR] D:\Projects\Nodejs\GameServer\controller\player.js - { status: 9003 }
+[2017-05-12 10:10:26.663] [ERROR] GameServer - POST /GameServer/Login
+[2017-05-12 10:10:32.822] [ERROR] D:\Projects\Nodejs\GameServer\controller\player.js - { status: 9003 }
+[2017-05-12 10:10:32.830] [ERROR] GameServer - POST /GameServer/Login
+[2017-05-12 10:19:42.599] [ERROR] GameServer - GET /favicon.ico
+[2017-05-12 10:19:42.673] [ERROR] console - (node:8556) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): MongoError: topology was destroyed
+[2017-05-12 10:23:37.472] [ERROR] console - (node:14456) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): MongoError: topology was destroyed
+[2017-05-12 10:28:48.124] [ERROR] D:\Projects\Nodejs\GameServer\controller\player.js - { status: 9003 }
+[2017-05-12 10:28:48.134] [ERROR] GameServer - POST /GameServer/Login

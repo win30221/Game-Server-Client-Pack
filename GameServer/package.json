@@ -1,0 +1,21 @@
+{
+  "name": "gameserver",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HugoHsiao",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "log4js": "^1.1.1",
+    "mongodb": "^2.2.25",
+    "path": "^0.12.7",
+    "socket.io": "^1.7.3",
+    "underscore": "^1.8.3"
+  }
+}

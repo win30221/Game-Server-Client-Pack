@@ -1,0 +1,15 @@
+﻿Empty,,
+SingleValue,{0},{0}
+Loading,Loading...,載入中...
+Language,English,中文
+InputYourName,Input your name:,輸入您的名字
+Submit,Submit,提交
+Name,Name:,名字:
+Meteorites,Meteorites:,隕石數:
+Battle,Battle,戰鬥
+Cancel,Cancel,取消
+TimeLeft,Time left: {0}s,剩餘時間: {0}秒
+Win,You Win!,你贏了!
+Lose,You Lose!,你輸了!
+Draw,Draw!,平手!
+Exit,Exit,離開

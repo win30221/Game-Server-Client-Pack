@@ -1,0 +1,7 @@
+{
+	"BATTLE_INTERVAL"   : 0.05,
+    "BATTLE_START_TIME" : 5,
+    "BATTLE_TIME"       : 60,
+    "BATTLE_MOVE"       : 0.1,
+    "BATTLE_BOUNDARY"   : 0.6
+}
